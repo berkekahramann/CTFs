@@ -93,8 +93,9 @@ Password: Wubbalubbadubdub
 #### Flagler
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/9dc3562e-590c-4d56-b6f3-6a917700862a" />
 
-"Sup3rS3cretPickl3Ingred.txt" dosyasından 1. Ingredient bulunur.
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/2cb88347-72b9-4807-a917-33fa7b192ee2" />
+"Sup3rS3cretPickl3Ingred.txt" dosyasından 1. Ingredient bulunur.
+
 
 <img width="1919" height="756" alt="image" src="https://github.com/user-attachments/assets/c6123356-3626-4faa-9f61-cd5860b38389" />
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/f9f95e2c-88b5-4e71-8a62-a94881ab7cec" />
