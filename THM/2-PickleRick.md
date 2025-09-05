@@ -94,11 +94,11 @@ Password: Wubbalubbadubdub
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/9dc3562e-590c-4d56-b6f3-6a917700862a" />
 
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/2cb88347-72b9-4807-a917-33fa7b192ee2" />
-"Sup3rS3cretPickl3Ingred.txt" dosyasından 1. Ingredient bulunur.
+"Sup3rS3cretPickl3Ingred.txt" dosyasından 1. Ingredient bulundu.
 
 
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/f9f95e2c-88b5-4e71-8a62-a94881ab7cec" />
-/home/rick/"secret ingredients" dizininden 2. Ingredient bulunur.
+/home/rick/"secret ingredients" dizininden 2. Ingredient bulundu.
 
 ### Sudo Kullanımı
 <img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/abcf863b-258f-4583-80ab-22beac9cf545" />
