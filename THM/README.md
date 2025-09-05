@@ -2,4 +2,4 @@
 Bu repo, TryHackMe üzerinde çözdüğüm odaların raporlarını içerir.  
 
 - [Basic Pentesting](./1-Basic-Pentesting.md) — Easy
--[Pickle Rick](./2-PickleRick.md) - Easy
+- [Pickle Rick](./2-PickleRick.md) - Easy
