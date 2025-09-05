@@ -98,7 +98,14 @@ Password: Wubbalubbadubdub
 
 
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/f9f95e2c-88b5-4e71-8a62-a94881ab7cec" />
+/home/rick/"secret ingredients" dizininden 2. Ingredient bulunur.
 
+### Sudo Kullanımı
+<img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/abcf863b-258f-4583-80ab-22beac9cf545" />
 
+```bash
+sudo -l kullanarak sudo kullanmak için şifre gerekmediği görüldü
+```
 
-
+<img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/79bf4dee-319b-427c-a6d3-7a5343758b12" />
+sudo less /root/3rd.txt kullanılarak 3. Ingredient bulundu.
