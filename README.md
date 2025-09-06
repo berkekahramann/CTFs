@@ -1,8 +1,8 @@
 # CTFs
 # TryHackMe CTF Write-ups
 
-Bu repo, TryHackMe üzerinde çözdüğüm CTF raporlarını içerir.  
-Tüm içerikler **platform kurallarına uygun** olarak paylaşılmıştır. Bazı CTF'lerde flag değerleri yerine `[FLAG FOUND]` ifadesi kullanılmıştır.
+This repository contains my CTF write-ups from TryHackMe.  
+All content is shared **in accordance with the platform rules**. In some CTFs, the actual flag values have been replaced with `[FLAG FOUND]`.  
 
-## Dizin
+## Index
 - `THM/` — TryHackMe CTFs
