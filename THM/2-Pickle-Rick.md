@@ -1,6 +1,6 @@
-## Bilgi
+## Info
 - Platform: TryHackMe  
-- Zorluk: Easy
+- Difficulty: Easy
 
 ---
 
@@ -17,10 +17,10 @@ nmap -sV -O 10.10.53.170
 </pre>
 
 ### Web İnceleme
-#### Anasayfa
+#### Home Page
 <img width="1917" height="829" alt="image" src="https://github.com/user-attachments/assets/27e99a22-bcc9-4b90-8517-75c8837597ea" />
 
-#### Kaynak Kod
+#### Source Code
 <img width="1917" height="829" alt="image" src="https://github.com/user-attachments/assets/08b2d02b-5346-4f28-8e90-7fa4bc687c7e" />
 
 Username: R1ckRul3s
@@ -79,28 +79,28 @@ Progress: 32291 / 32291 (100.00%)
 
 #### Robots.txt
 <img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/f2f8d38f-cab6-417f-97bc-344da98accff" />
-Buradan "Wubbalubbadubdub" parolası bulundu.
+The password "Wubbalubbadubdub" was found here.
 
 #### Login
 
-Kullanıcı adı ve parola ile giriş yapıldı:
+Logged in using the username and password:
 <img width="1917" height="826" alt="image" src="https://github.com/user-attachments/assets/2c3f11b1-dac0-4805-926d-23dec0e0d968" />
 
 Username: R1ckRul3s
 Password: Wubbalubbadubdub
 
 ### Portal (Command Panel)
-#### Flagler
+#### Flags
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/9dc3562e-590c-4d56-b6f3-6a917700862a" />
 
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/2cb88347-72b9-4807-a917-33fa7b192ee2" />
-"Sup3rS3cretPickl3Ingred.txt" dosyasından 1. Ingredient bulundu.
+The 1st ingredient was found in the file "Sup3rS3cretPickl3Ingred.txt".
 
 
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/f9f95e2c-88b5-4e71-8a62-a94881ab7cec" />
-/home/rick/"secret ingredients" dizininden 2. Ingredient bulundu.
+The 2nd ingredient was found in the /home/rick/"secret ingredients" directory.
 
-### Sudo Kullanımı
+### Using Sudo 
 <img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/abcf863b-258f-4583-80ab-22beac9cf545" />
 
 ```bash
@@ -108,4 +108,4 @@ sudo -l kullanarak sudo kullanmak için şifre gerekmediği görüldü
 ```
 
 <img width="1919" height="759" alt="image" src="https://github.com/user-attachments/assets/79bf4dee-319b-427c-a6d3-7a5343758b12" />
-sudo less /root/3rd.txt kullanılarak 3. Ingredient bulundu.
+The 3rd ingredient was found using `sudo less /root/3rd.txt`.
