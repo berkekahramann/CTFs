@@ -87,7 +87,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.63 seconds
 <img width="1629" height="751" alt="image" src="https://github.com/user-attachments/assets/3d5073c8-7e4d-49c3-a5c5-80b2cb133e74" />
 
 - `sudo -l` shows that **less** can be run as root without password.  
-- Exploited with `sudo less /etc/passwd` → `!bash`.  
+- Exploitation performed with `sudo less /etc/passwd` → `!bash`.  
 - Root shell obtained.
 - Root flag captured
 
