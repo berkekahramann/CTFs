@@ -52,6 +52,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.63 seconds
 
 ---
 <img width="513" height="299" alt="Screenshot_2025-09-09_08-13-07" src="https://github.com/user-attachments/assets/360931f7-65c1-43dc-90a7-c2365245c166" />
+
 - FTP allows **anonymous login**.  
 - File found: `note_to_jake.txt`.
 
@@ -59,6 +60,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.63 seconds
 
 ## FTP & Information Disclosure
 <img width="1428" height="176" alt="Screenshot_2025-09-09_08-16-06" src="https://github.com/user-attachments/assets/71410704-ecea-466c-97ea-4a5c3743ef1a" />
+
 - Anonymous login successful.  
 - `note_to_jake.txt` reveals that user **jake** has a weak password.
 
@@ -66,6 +68,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.63 seconds
 
 ## Exploitation
 <img width="1909" height="446" alt="image" src="https://github.com/user-attachments/assets/62560c4e-84ea-411a-8146-86e61d5bcfe0" />
+
 - Brute forced SSH with Hydra.  
 - Valid credentials found:  
 - Username: `jake`  
@@ -74,6 +77,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.63 seconds
 ---
 
 <img width="1096" height="606" alt="image" src="https://github.com/user-attachments/assets/c88ff041-c957-45cd-9013-a2c0d01e9a8f" />
+
 - SSH access gained as `jake`.  
 - User flag located in `/home/holt/user.txt`.
 
@@ -81,6 +85,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.63 seconds
 
 ## Privilege Escalation
 <img width="1629" height="751" alt="image" src="https://github.com/user-attachments/assets/3d5073c8-7e4d-49c3-a5c5-80b2cb133e74" />
+
 - `sudo -l` shows that **less** can be run as root without password.  
 - Exploited with `sudo less /etc/passwd` → `!bash`.  
 - Root shell obtained.
