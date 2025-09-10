@@ -78,6 +78,7 @@ else:
 - Pasted the exploit code inside and saved it.
 
 <img width="698" height="240" alt="Screenshot_2025-09-10_06-53-17" src="https://github.com/user-attachments/assets/8adba7af-ebc3-4104-a75a-28dfb63ff2c9" />
+
 - Executed the script.
 
 ---
