@@ -18,7 +18,7 @@
 
 ## Exploitation
 - Searched Exploit-DB for *PHP 8.1.0-dev*.  
-- Found: [PHP 8.1.0-dev – 'User-Agentt' RCE](https://www.exploit-db.com/exploits/49446).
+- Found: [PHP 8.1.0-dev – 'User-Agentt' RCE]([https://www.exploit-db.com/exploits/49446](https://www.exploit-db.com/exploits/49933)).
 ```bash
 # Exploit Title: PHP 8.1.0-dev - 'User-Agentt' Remote Code Execution
 # Date: 23 may 2021
@@ -83,6 +83,6 @@ else:
 ---
 
 ## Result
-
+<img width="602" height="64" alt="2" src="https://github.com/user-attachments/assets/a01a3a4e-69e6-4ee8-951c-5fd1d382fc42" />
 
 - Flag found: `[FLAG FOUND]`
