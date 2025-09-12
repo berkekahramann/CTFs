@@ -1,6 +1,6 @@
 ## Info
 - Platform: TryHackMe  
-- Difficulty: Easy
+- Difficulty: Medium
 
 ---
 
