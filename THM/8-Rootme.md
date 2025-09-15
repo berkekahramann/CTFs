@@ -96,3 +96,8 @@ nc -lvnp 4444
 
 ---
 
+## Privilege Escalation
+## SUID Enumeration
+- searched for SUID binaries:
+```bash
+find / -perm -4000 2>/dev/null
