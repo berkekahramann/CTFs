@@ -180,3 +180,4 @@ find / -perm -4000 2>/dev/null
 
 <img width="466" height="422" alt="image" src="https://github.com/user-attachments/assets/3235cc87-503d-4d6c-9031-e44bd4328704" />
 
+- Flag found: `[FLAG FOUND]`
