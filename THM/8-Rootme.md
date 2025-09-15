@@ -1,4 +1,3 @@
-<img width="467" height="421" alt="image" src="https://github.com/user-attachments/assets/c3d641d6-1f51-46a0-848f-77e7ebca7575" />## Info
 - Platform: TryHackMe  
 - Difficulty: Easy
 
