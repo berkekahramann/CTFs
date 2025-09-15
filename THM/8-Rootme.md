@@ -89,4 +89,10 @@ nc -lvnp 4444
 
 ---
 
+### First Flag
+<img width="303" height="83" alt="1" src="https://github.com/user-attachments/assets/cee5eb86-95ed-434c-88d3-fa5cce411ed2" />
+
+- Flag found: `[FLAG FOUND]`
+
+---
 
