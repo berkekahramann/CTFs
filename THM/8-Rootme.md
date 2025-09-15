@@ -44,6 +44,14 @@ Starting gobuster in directory enumeration mode
 /.htpasswd.txt        (Status: 403) [Size: 277]
 /.htpasswd.html       (Status: 403) [Size: 277]
 /css                  (Status: 301) [Size: 310] [--> http://10.10.27.133/css/]
-```
 /index.php            (Status: 200) [Size: 616]
-/index
+/index.php            (Status: 200) [Size: 616]
+/js                   (Status: 301) [Size: 309] [--> http://10.10.27.133/js/]
+/panel                (Status: 301) [Size: 312] [--> http://10.10.27.133/panel/]
+/server-status        (Status: 403) [Size: 277]
+/uploads              (Status: 301) [Size: 314] [--> http://10.10.27.133/uploads/]
+Progress: 18452 / 18452 (100.00%)
+===============================================================
+Finished
+===============================================================
+```
