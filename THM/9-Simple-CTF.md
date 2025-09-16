@@ -42,7 +42,7 @@ Progress: 18452 / 18452 (100.00%)
 Finished
 ===============================================================
 ```
-- `/simple directory discovered.`
+- `/simple` directory discovered.
 
 ## Exploitation
 
