@@ -67,7 +67,7 @@ nc -lvnp 4444
 ---
 
 ### Second Flag
-<img width="464" height="174" alt="image" src="https://github.com/user-attachments/assets/d20bd5ef-e0e7-4bcd-988c-9c0fc703bae2" />
+<img width="466" height="175" alt="1" src="https://github.com/user-attachments/assets/65fe8977-da5d-48ea-a892-2a948351b780" />
 
 - Root access was obtained using the discovered credentials.
 - Flag found: `[FLAG FOUND]`
