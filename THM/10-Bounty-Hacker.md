@@ -18,7 +18,6 @@
 - Anonymous FTP was allowed.
 
 
-
 <img width="581" height="252" alt="image" src="https://github.com/user-attachments/assets/9df5010f-5a64-4311-b7bc-c46263c9b25b" />
 
 - `task.txt` — contained the small task list and ended with `-lin`(username)
