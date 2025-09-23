@@ -39,7 +39,7 @@ Netcat listener was started:
 ```bash
 nc -lvnp 4444
 ```
-
+<br><br>
 <img width="1294" height="99" alt="image" src="https://github.com/user-attachments/assets/cb065722-ef36-4e1f-801e-a6f9c597f558" />
 
 - Reverse shell payload was triggered
@@ -60,6 +60,7 @@ nc -lvnp 4444
 <img width="930" height="255" alt="image" src="https://github.com/user-attachments/assets/ab88bd2d-908e-43ca-8614-09ad1ac8ab87" />
 
 - Fuel CMS database configuration was discovered in `database.php`
+<br><br>
 - Root credentials were discovered:
 
 <img width="756" height="621" alt="image" src="https://github.com/user-attachments/assets/dd84ddab-3dc9-4c96-8d46-276d82d24978" />
